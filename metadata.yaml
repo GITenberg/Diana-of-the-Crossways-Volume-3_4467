@@ -1,5 +1,5 @@
 _repo: Diana-of-the-Crossways-Volume-3_4467
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Married women -- Fiction'
 - !lcsh 'Political fiction'
 - !lcc 'PR'
+- GITenberg
 title: Diana of the Crossways — Volume 3
 url: http://www.gutenberg.org/ebooks/4467
